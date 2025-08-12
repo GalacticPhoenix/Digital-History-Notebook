@@ -1,0 +1,1 @@
+Ada lovelace was born in London on December 10th 1815. In 1833 she met the future "Father of computing" Charles Baggage. Then in 1842 Baggage asked her translate an article about his calculating machine. She did that and made 7 "notes" that were programs for the calculating machine to follow. 
