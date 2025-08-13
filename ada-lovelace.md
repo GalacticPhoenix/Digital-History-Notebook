@@ -1,1 +1,2 @@
 Ada lovelace was born in London on December 10th 1815. In 1833 she met the future "Father of computing" Charles Baggage. Then in 1842 Baggage asked her translate an article about his calculating machine. She did that and made 7 "notes" that were programs for the calculating machine to follow. Note G expresses how she disaproves of AI. Saying that it can only do what we know, not being able to make any progress. She eventually dies in 1851 by utrine cancer. 
+https://www.thoughtco.com/ada-lovelace-biography-5113321
