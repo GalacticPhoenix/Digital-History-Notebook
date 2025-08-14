@@ -21,7 +21,7 @@ On your local machine, create a new file named ada-lovelace.md.
 In this file, research and write a short paragraph about her contributions to early computing. (Cite those sources!)
 Create a second new file named alan-turing.md.
 In this file, research and write a short paragraph about his contributions to modern computer science. (Cite those sources!)
-In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)
+In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)    [Ada Lovelace] (https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/ada-lovelace.md)  [Alan Turing] (https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/AlanTuring.txt) 
 Use git add . to stage both new files.
 Use git commit -m "Added pioneers Ada and Alan" to save these changes to your local notebook.
 Finally, use git push to publish your work to GitHub.
