@@ -10,10 +10,12 @@ Add a README.md file when you create the repository.
 After creating the repository, clone it to your local computer. Open the README.md file in a text editor and copy and paste this entire assignment briefing into it.
 Once the content is in the file, you will need to push it back to GitHub.
 Report Status (These questions need to be answered for part of your grade):
+
 1.1: What command did you use to bring the repository to your local machine? Git clone <httpslink>
-Answer:
+
+
 1.2: What was your first commit message to push this file to GitHub? <ChangedREADMEContents>
-Answer:
+
 Assignment 2: The Founding Visionaries
 Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
 Instructions:
@@ -26,7 +28,8 @@ Use git add . to stage both new files.
 Use git commit -m "Added pioneers Ada and Alan" to save these changes to your local notebook.
 Finally, use git push to publish your work to GitHub.
 Report Status:
-2.1: What two file names did you create? AdaLoveLace.txt AlanTuring.txt
+
+2.1: What two file names did you create? AdaLoveLace.txt(https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/ada-lovelace.md) AlanTuring.txt(https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/AlanTuring.txt)
 
 2.2: What was your commit message? LoveLace/Turing Done
 
