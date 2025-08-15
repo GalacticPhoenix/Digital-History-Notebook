@@ -1,6 +1,5 @@
 # Digital-History-Notebook
 Digital History Notebook: Computer Science Pioneers
-
 Welcome to your first project for the "History of Technology" class. Your assignment is to create a digital notebook to document key figures and events in the history of computer science. This notebook will be version-controlled, allowing you to track your work and manage your revisions.
 Your final submission will be a public GitHub repository with a complete digital notebook that follows all of the steps below.
 Assignment 1: Setting Up Your Notebook
@@ -22,15 +21,15 @@ On your local machine, create a new file named ada-lovelace.md.
 In this file, research and write a short paragraph about her contributions to early computing. (Cite those sources!)
 Create a second new file named alan-turing.md.
 In this file, research and write a short paragraph about his contributions to modern computer science. (Cite those sources!)
-In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)    [Ada Lovelace](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/ada-lovelace.md)  [Alan Turing](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/AlanTuring.txt) 
-Use git add . to stage both new files.
+In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)  
+Use git add . to stage both new files. 
 Use git commit -m "Added pioneers Ada and Alan" to save these changes to your local notebook.
 Finally, use git push to publish your work to GitHub.
 Report Status:
-2.1: What two file names did you create?
-Answer:
-2.2: What was your commit message?
-Answer:
+2.1: What two file names did you create? AdaLoveLace.txt AlanTuring.txt
+
+2.2: What was your commit message? LoveLace/Turing Done
+
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:
@@ -43,7 +42,7 @@ Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
-Answer:
+Answer: git pull/fetch
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
 Instructions:
@@ -116,4 +115,29 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
+
+--------------------------------------------------------
+
+1965- The first digital communication was made between two computers.
+
+1973- One of the first international digital communication was made. The participants being University College of London (England) and Royal Radar Establishment (Norway). 
+
+1972- BBN’s Ray Tomlinson makes the framework for the first email program.
+
+1982- Vinton Cerf and Bob Kahn made the TCP connection <img src="https://www.wordfence.com/wp-content/uploads/2015/12/TCPConnection_1340px.png" width="250">
+
+1987- The internet reaches 20,000 users, and Cisco ships its first router. <img src="https://slidetodoc.com/presentation_image/ce60511e21a140a344403ec945af6629/image-3.jpg" width="250">
+
+1989- World.std.com provides the first dial up service.
+
+1992- The first audio and video are distributed over the internet. 
+
+
+
+
+
+
+
+
 
