@@ -29,7 +29,7 @@ Use git commit -m "Added pioneers Ada and Alan" to save these changes to your lo
 Finally, use git push to publish your work to GitHub.
 Report Status:
 
-2.1: What two file names did you create? AdaLoveLace.txt(https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/ada-lovelace.md) AlanTuring.txt(https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/AlanTuring.txt)
+2.1: What two file names did you create? [AdaLoveLace.txt](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/ada-lovelace.md) [AlanTuring.txt](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/AlanTuring.txt)
 
 2.2: What was your commit message? LoveLace/Turing Done
 
