@@ -43,9 +43,9 @@ In this new section, add a brief, bulleted timeline (7 points) of major mileston
 Commit this change directly on GitHub with the message: "Added internet timeline".
 Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
-Report Status:
-3.1: What command did you use to retrieve the new information from GitHub?
-Answer: git pull/fetch
+
+3.1: What command did you use to retrieve the new information from GitHub? git pull/fetch
+
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
 Instructions:
@@ -55,11 +55,11 @@ In this README.md file, add two new hyperlinks below to the files you just creat
 Use git add . to stage the new files and the updated README.md.
 Use git commit -m "Added modern innovators" to save your work.
 Use git push to publish your changes.
-Report Status:
-4.1: What command did you use to save your changes to your local notebook?
-Answer:
-4.2: What command did you use to publish your changes to the remote repository?
-Answer:
+
+4.1: What command did you use to save your changes to your local notebook? crtl-s
+
+4.2: What command did you use to publish your changes to the remote repository? git push 
+
 Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
 Instructions:
