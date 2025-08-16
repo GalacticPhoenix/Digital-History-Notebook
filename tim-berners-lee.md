@@ -1,0 +1,3 @@
+Timothy John Berners-Lee was born on June 8, 1955 in London. After doing ot high school he went to University of Oxford at Queen’s College for three years and received a first class degree in physics in 1976. After college he went to a multitude of jobs. He first went to Plessey Telecom in 1978, where he worked on trasmision, bar code, message, and variety of other technologies. Then he went to CERN for Nuclear Research in 1980.
+Finally in 1989 at CERN he made a way to share information digitally, it is commonly called a website. Then he made the first web browser for the World Wide Web. 
+[Source](https://www.famousscientists.org/timothy-john-berners-lee/)
