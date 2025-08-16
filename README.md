@@ -73,10 +73,11 @@ Return to your local machine's terminal.
 Use git fetch to check for updates, then use git status to see what's different.
 Finally, use git pull to get your peer's feedback.
 Report Status:
-5.1: What did git status tell you after you ran git fetch?
-Answer:
-5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+
+5.1: What did git status tell you after you ran git fetch? Everything is up to date.
+
+5.2: What command did you use to merge your peer's changes into your local notebook? git merge <BranchName>
+
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 Instructions:
@@ -86,11 +87,13 @@ In this README.md file, add a hyperlink to this new file. The link should be nam
 Use git add . to stage the new file and the updated README.md.
 Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
-Report Status:
-6.1: What was your commit message for this assignment?
-Answer:
-6.2: What command did you use to publish your work?
-Answer:
+
+[Tim Berners](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/tim-berners-lee.md)
+
+6.1: What was your commit message for this assignment? Made TimBerners Bio
+
+6.2: What command did you use to publish your work? git push 
+
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 Instructions:
@@ -101,8 +104,10 @@ In this new section, write one or two sentences reflecting on the project.
 Commit this change directly on GitHub with the message: "Final thoughts on project".
 Return to your local machine's terminal and use git pull to get your concluding thoughts.
 Report Status:
-7.1: What command did you use to retrieve your final thoughts from GitHub?
-Answer:
+
+7.1: What command did you use to retrieve your final thoughts from GitHub? git pull 
+
+
 High-Level Challenge: The Editing Mistake
 You were working on a file for an extra credit assignment but made a mistake. You committed the error to your local history, but you realize your mistake before pushing. You need to completely erase the commit so there is no record of the error.
 Instructions:
@@ -140,7 +145,9 @@ Be sure to answer the questions above as well.
 
 
 
+------------------------------------------------------------------------
 
+This project was a bit tedious to make. While saying that I did learn a few a little bit more of the origins of the internet. 
 
 
 
