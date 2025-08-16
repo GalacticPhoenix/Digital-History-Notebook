@@ -120,6 +120,8 @@ Once undone, verify that the commit is gone by using git log.
 Report Status:
 Extra Credit: What command(s) did you use to undo the commit, and why did you choose that particular method?
 Answer:
+
+
 Submission Instructions
 When you have completed all assignments and answered all of the "Report Status" questions in your README.md file, you are ready to submit. Please submit the following to Google Classroom:
 A link to your public Digital-History-Notebook repository.
