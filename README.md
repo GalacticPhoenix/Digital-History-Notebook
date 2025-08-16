@@ -51,10 +51,12 @@ Now, let's add two more influential figures who shaped the modern era of computi
 Instructions:
 On your local machine, create a new file named bill-gates.md. Research and write a short paragraph about his role in the personal computer revolution.
 Create a second new file named steve-jobs.md. Research and write a short paragraph about his role in user interface and consumer technology.
-In this README.md file, add two new hyperlinks below to the files you just created. The links must be named "Bill Gates" and "Steve Jobs" and must lead to the corresponding files.
+In this README.md file, add two new hyperlinks below to the files you just created. The links must be named "Bill Gates" and "Steve Jobs" and must lead to the corresponding files.  
 Use git add . to stage the new files and the updated README.md.
 Use git commit -m "Added modern innovators" to save your work.
 Use git push to publish your changes.
+
+[BillGates](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/bill-gates.md) [SteveJobs](https://github.com/GalacticPhoenix/Digital-History-Notebook/blob/main/steve-jobs.md)
 
 4.1: What command did you use to save your changes to your local notebook? crtl-s
 
